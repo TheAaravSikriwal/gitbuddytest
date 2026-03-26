@@ -1,5 +1,6 @@
 public class math {
     public static void main(String[] args) {
-       
+       System.out.println("hello world"); // Output: 10\
+       System.out.println(Math.max(10,5)); // Output: 10\
     }
 }
