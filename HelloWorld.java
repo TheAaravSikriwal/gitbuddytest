@@ -12,5 +12,9 @@ public class HelloWorld {
         System.out.println("Quotient: " + (x / y));
 
         System.out.println("R2 " + "-D2");
+        System.out.println("R2 " + "-D2");
+        System.out.println("R2 " + "-D2");
+
+        
     }
 }
