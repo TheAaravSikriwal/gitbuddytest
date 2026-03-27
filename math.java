@@ -5,5 +5,8 @@ public class math {
        System.out.println("trial pull request");
        System.out.println("trial2pull");
        System.out.println("issue was refresh lets try this again");
+       if (10 > 5) {
+           System.out.println("10 is greater than 5");
+       }    
     }
 }
