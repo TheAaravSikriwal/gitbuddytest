@@ -25,5 +25,20 @@ public class HelloWorld {
 
 
         
+<<<<<<< HEAD
     }
+=======
+        System.out.println("cat over mat");
+        System.out.println("batt over cat");
+
+        System.out.println("what is he talkin bout da");
+        System.out.println("what is he talkin bout da");    
+3
+        System.out.println("5/3/2026");
+        Sysrtem.out.println("5/5/2026");
+        System.out.println("5/7/2026");
+        System.out.println("5/9/2026");
+        System.out.println("5/11/2026");
+        System.out.println("5/13/2026");
+>>>>>>> parent of 4bcf8f2 (pop)
 }
