@@ -56,6 +56,7 @@ public class HelloWorld {
         System.out.println("5/25/2026");
         system.out.println("5/27/2026");
         System.out.println("5/29/2026");
-        system.out.println("5/31/2026");
+        system.out.println("5/31/2026");\
+        System.out.println("6/2/2026"); 
 
 }
