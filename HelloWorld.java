@@ -20,9 +20,6 @@ public class HelloWorld {
         
         System.out.println("trying push with new rrepo creation connected to tworepos");
                  System.out.println("test 1 branch creation");
-                 System.out.println("test 2 branch creation");
-                 String str = "Hello, World!";
-                 System.out.println(str);
                  
         System.out.println("test 2 branch creation");
          System.out.println("test 3 branch creation");
@@ -39,18 +36,6 @@ public class HelloWorld {
 
         System.out.println("what is he talkin bout da");
         
-        System.out.println("cat over mat");
-        System.out.println("batt over cat");
-
-        System.out.println("what is he talkin bout da");
-        System.out.println("what is he talkin bout da");    
-3
-        System.out.println("5/3/2026");
-        Sysrtem.out.println("5/5/2026");
-        System.out.println("5/7/2026");
-        System.out.println("5/9/2026");
-        System.out.println("5/11/2026");
-        System.out.println("5/13/2026");
         System.out.println("5/15/2026");
         System.out.println("5/17/2026");
         System.out.println("5/19/2026");
@@ -64,10 +49,6 @@ public class HelloWorld {
 
 
         System.out.println("6/26/2026");
-
-
-
-
 
 
 
