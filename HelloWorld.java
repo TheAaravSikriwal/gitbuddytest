@@ -13,38 +13,19 @@ public class HelloWorld {
 
     String secret;
 
-        public void setSecret(String secret) {
+        public void setSecret(String secret, int key) {
                 this.secret = secret;
+                this.secret = this.secret + key; // Simple obfuscation by appending the key
         }
         
         public String getSecret() {
                 return secret;
 
-}
+        }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        public void revealSecret() {
+                System.out.println("The secret is: " + secret);
+        }
 
 
 
