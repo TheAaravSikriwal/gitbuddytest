@@ -28,13 +28,4 @@ public class HelloWorld {
         }
 
 
-        String hiddenMessage;
-
-        public void setHiddenMessage(String hiddenMessage, int key) {
-                this.hiddenMessage = hiddenMessage;
-                this.hiddenMessage = this.hiddenMessage + key; // Simple obfuscation by appending the key
-        }
-
-
-
 }
