@@ -17,7 +17,8 @@ public class HelloWorld {
                 this.secret = secret;
         }
         
-
+        public String getSecret() {
+                return secret;
 
 }
 
