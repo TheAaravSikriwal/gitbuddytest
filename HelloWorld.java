@@ -7,7 +7,18 @@ public class HelloWorld {
 
         int sum = x + y;
         System.out.println("The sum of " + x + " and " + y + " is: 21");
+
+
     }
+
+    String secret;
+
+        public void setSecret(String secret) {
+                this.secret = secret;
+        }
+        
+
+
 }
 
 
