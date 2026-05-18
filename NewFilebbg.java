@@ -38,4 +38,6 @@ public class CipherProtocol {
         System.out.println("Channel: OPEN");
         System.out.println("May your keystrokes reveal the passphrase.");
     }
+
+    
 }

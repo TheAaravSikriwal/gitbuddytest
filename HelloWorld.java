@@ -1,19 +1,14 @@
-        public String getSecret() {
-                return secret;
+public class keyEncryption {
 
-        }
+    private static final String[] KEYS = {
+        "alpha", "beta", "gamma", "delta", "epsilon", "omega"
+    };
 
-        public void revealSecret() {
-                System.out.println("The secret is: " + secret);
-        }
+    public static void main(String[] args) {
+        System.out.println("Welcome to the Key Encryption System.");
+        System.out.println("Please enter the passphrase to access the keys.");
+    }
 
-        static void encryptSecret(String secret, int key) {
-                StringBuilder encrypted = new StringBuilder();
-                for (char c : secret.toCharArray()) {
-                        encrypted.append((char)(c + key)); // Simple Caesar cipher
-                }
-                System.out.println("Encrypted secret: " + encrypted.toString());
-        }
-
+    
 
 }
