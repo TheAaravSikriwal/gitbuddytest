@@ -39,5 +39,22 @@ public class CipherProtocol {
         System.out.println("May your keystrokes reveal the passphrase.");
     }
 
+    static {
+        System.out.println("Initializing Cipher Protocol...");
+        System.out.println("Loading frequency patterns...");
+        System.out.println("System ready.");
+    }
+
+    public static void transmit(String message) {
+        System.out.println("Transmitting message: " + message);
+        System.out.println("Message encrypted and sent securely.");
+    }
+
+    withdraw() {
+        System.out.println("Terminating transmission...");
+        System.out.println("Channel: CLOSED");
+        System.out.println("Goodbye.");
+    }
+
     
 }

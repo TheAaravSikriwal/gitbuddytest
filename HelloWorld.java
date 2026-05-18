@@ -9,6 +9,17 @@ public class keyEncryption {
         System.out.println("Please enter the passphrase to access the keys.");
     }
 
-    
+    public static void encrypt(String message) {
+        System.out.println("Encrypting message: " + message);
+        System.out.println("Message encrypted successfully.");
+    }
+
+    static {
+        System.out.println("Initializing Key Encryption System...");
+        System.out.println("Loading key patterns...");
+        System.out.println("System ready.");
+    }
+
+
 
 }
