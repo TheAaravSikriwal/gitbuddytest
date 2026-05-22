@@ -6,3 +6,4 @@
         System.out.println("Encrypting message: " + message);
 
         System.out.println("Message encrypted successfully.");
+        user input = new Scanner(System.in);
