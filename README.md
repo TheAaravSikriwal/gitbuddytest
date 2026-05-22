@@ -1,1 +1,1 @@
-waht do i name gitbuddy bro
+WE GON MAKE IT.
