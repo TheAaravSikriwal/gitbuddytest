@@ -16,7 +16,7 @@
         System.out.println("Encrypting message: " + message);
         System.out.println("Message encrypted successfully.");
         user input = new Scanner(System.in);
-        String passphrase = input.nextLine();
+        String passdfsdf    hrase = input.nextLine();
 
         input.close();
         System.out.println("Input closed.");
