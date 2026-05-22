@@ -3,17 +3,7 @@
         System.out.println("All systems secure.");
     }
 
-    main() {
-        System.out.println("This is the main method without a return type.");
-
-        each (String key : KEYS) {
-            System.out.println("Available key: " + key);
-        }
-
-        System.out.println("Cipher Protocol System is now active.");
-        System.out.println("Awaiting user input...");
-        System.out.println("Please enter the passphrase to access the protocol.");
-        System.out.println("Encrypting message: " + message);
+    mainssage: " + message);
         System.out.println("Message encrypted successfully.");
         user input = new Scanner(System.in);
         String passdfsdf    hrase = input.nextLine();
