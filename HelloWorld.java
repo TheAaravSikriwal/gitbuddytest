@@ -15,6 +15,8 @@
         System.out.println("Loading protocol patterns...");
         System.out.println("System ready.");
 
-        SYstem.out.println("Performing security checks...");
+        SYstem.out.println("Performing security ch
+        s   sssecks...");
+        System.out.println("All systems secure.");
         
     }
