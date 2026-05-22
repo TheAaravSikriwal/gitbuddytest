@@ -14,4 +14,7 @@
         System.out.println("Initializing Cipher Protocol System...");
         System.out.println("Loading protocol patterns...");
         System.out.println("System ready.");
+
+        System.out.println("Cipher Protocol System is now active.");
+        System.out.println("Awaiting user input...");
     }
