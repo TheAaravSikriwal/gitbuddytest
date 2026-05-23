@@ -7,3 +7,5 @@
 
         System.out.println("Message encrypted successfully.");
         user input = new Scanner(System.in);
+
+        String passphrase = input.nextLine();
