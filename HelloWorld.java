@@ -23,8 +23,18 @@
         String passphrase = input.nextLine();
 
         System.err.println("Access granted. Welcome to the Cipher Protocol System.");
+       tem.out.println("Please enter the passphrase to access the protocol.");
+        System.out.println("Encrypting message: " + message);
+
+        System.out.println("Message encrypted successfully.");
+        user input = new Scanner(System.in);
+
+        String passphrase = input.nextLine();
+
+        System.err.println("Access granted. Welcome to the Cipher Protocol System.");   
         
-        \
+        // 99 little bugs in the code, 99 little bugs...        
+
         System.out.println("Please enter the passphrase to access the protocol.");
         System.out.println("Encrypting message: " + message);
 
@@ -33,24 +43,11 @@
 
         String passphrase = input.nextLine();
 
-        System.err.println("Access granted. Welcome to the Cipher Protocol System.");r Protocol System.");
+        //Systemerrprintln("Access granted. Welcome to the Cipher Protocol System.");
         
-        this file is literaly utter nonsesnse cant take my data bud
         
-
-        System.out.println("Please enter the passphrase to access the protocol.");
-        System.out.println("Encrypting message: " + message);
-
-        System.out.println("Message encrypted successfully.");
-        user input = new Scanner(System.in);
-
-        String passphrase = input.nextLine();
-
-        System.err.println("Access granted. Welcome to the Cipher Protocol System.");
-        
-        \
-        System.out.println("Please enter the passphrase to access the protocol.");
-        System.out.println("Encrypting message: " + message);
+        //System.out.println("Please enter the passphrase to access the protocol.");
+        //System.out.println("Encrypting message: " + message);
 
         System.out.println("Message encrypted successfully.");
         user input = new Scanner(System.in);
