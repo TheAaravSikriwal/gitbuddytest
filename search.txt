@@ -1,1 +1,2 @@
 search: query parser
+search: results list
