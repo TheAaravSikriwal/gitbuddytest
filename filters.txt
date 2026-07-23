@@ -1,1 +1,2 @@
 filters: facet sidebar
+filters: price range
