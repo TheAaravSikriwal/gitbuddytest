@@ -1,1 +1,2 @@
 notifications: service skeleton
+notifications: dispatcher
