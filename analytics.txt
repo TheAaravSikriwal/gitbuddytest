@@ -1,1 +1,2 @@
 analytics: tracker core
+analytics: consent gate
