@@ -1,0 +1,2 @@
+profile: bio editor
+profile: avatar upload
